@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+    <img width="200" src="https://raw.githubusercontent.com/Pasindu-sd/Pasindu-sd/refs/heads/main/animation_500_kxa883sd.gif">
 </p>
 <h1 align="center">Hi 👋, I'm Pasindu Sandeepa</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
