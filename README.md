@@ -11,9 +11,9 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **FrontEnd Development**
+- 🌱 I’m currently learning **Cyber Security**
 - 🧑‍🎓 I’m an Undergraduate at **Bsc Computer Science**
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Python**
 - 📫 How to reach me **Dilharawijesinghe86@gmail.com**
 - ⚡ Fun fact **Call me as Pasiya**
 
