@@ -28,11 +28,15 @@
 </table>
 
 ---
-    
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-sd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<h3 align="center">Most Used Languages</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pasindu-sd&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Pasindu's Top Languages" />
+</p>
 
 ---
+
 
 <h3 align="center">Connect with Me</h3>
 <p align="center">
