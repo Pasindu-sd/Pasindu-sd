@@ -29,6 +29,10 @@
 
 ---
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehanJay19&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
 <h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/pasindu-sandeepa-aa883a262/" target="_blank">
