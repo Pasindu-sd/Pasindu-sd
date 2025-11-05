@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Pasindu Sandeepa</h1>
 <h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pasindu-sd&label=Profile%20views&color=0e75b6&style=flat" alt="pasindu-sd" /> </p>
 
 ---
 <table align="center">
